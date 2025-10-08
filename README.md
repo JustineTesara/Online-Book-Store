@@ -95,7 +95,7 @@ CREATE TABLE orders (
 - Database: MySQL
 - Connector: JDBC
 
-## 📷 Preview (Optional)
+## 📷 Preview
 
 ### Log in/Sign up Dashboard
 <img width="508" height="331" alt="Screenshot 2025-10-08 163840" src="https://github.com/user-attachments/assets/69991ef9-bac3-4f33-9e47-83c771872897" />
