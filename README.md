@@ -104,7 +104,8 @@ CREATE TABLE orders (
 <img width="1045" height="609" alt="Screenshot 2025-10-08 163902" src="https://github.com/user-attachments/assets/dfd2c9d8-caed-4ae1-ac0c-dc4cbc4f0a37" />
 
 ### Purchasing a book
-<img width="1045" height="609" alt="Screenshot 2025-10-08 163902" src="https://github.com/user-attachments/assets/9aad2a6d-c9c1-4061-957b-f6a68bdd657b" />
+<img width="1042" height="611" alt="Screenshot 2025-10-08 163930" src="https://github.com/user-attachments/assets/1b0faca3-4e18-4a68-a82c-a53e4a454a62" />
+
 <img width="1043" height="611" alt="Screenshot 2025-10-08 163942" src="https://github.com/user-attachments/assets/537ce58b-f141-499d-adfa-84acce03367c" />
 
 ### View orders of user
